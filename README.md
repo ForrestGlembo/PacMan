@@ -1,7 +1,5 @@
 # PacMan
 
- <img src="Pacman1.png" alt="" width="300">
-
 Description-
 
 This is a project that tested our ability to manipulate and create moving objects within the browser. The pacmen can be created and sped up, and are confined to a set area within the browser window.
