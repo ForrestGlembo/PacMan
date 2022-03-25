@@ -14,6 +14,6 @@ I would like to add the ability to make the pacmen themselves be chomping while 
 
 License - 
 
-Copyright Forrest Glembo & MIT
+Please see license file above. 
 
 
